@@ -1,13 +1,13 @@
 Program #1
 
-Name: Tanner Jacobson
+Name: 
 
 COSC 2030
 
-Section #11
+Section #
 
-Competing: NO
+Competing:  Yes or NO
 
 Best run time:
 
-Anything that doesn't work: Visual Studio compiles it but I don't ahve the time to let it finish running to test it
+Anything that doesn't work: 
